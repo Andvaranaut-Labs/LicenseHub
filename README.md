@@ -16,7 +16,14 @@ within paid source independent application base platforms that work together wit
 Lastly, clients are allowed to use the paid source-independent application platforms developed under this license  
 to create commercial proprietary products by customization and/or developing add-ins/plug-ins osing FLOSS, PAID or even CLOSED Source.
 
-The license provides partner developers with six degrees of freedom while specifying certain duties. 
+The license provides partner developers with six degrees of freedom while specifying certain duties.
 
-Overall, the AVNL-ASH License provides a balanced approach that encourages innovation and collaboration,  
+The AVNL-ASH License version text is clear and easy to understand
+It outlines the conditions that a licensee must agree to, including obtaining proper authorization, using the software/hardware product/component and/or source code subject to the terms and conditions of the licensing agreement, and complying with the license terms for open source plugins. The license also highlights the benefits of using open source and closed source plugins.
+
+Overall, the AVNL-ASH License provides a balanced approach that encourages innovation and collaboration, 
 while protecting the rights of developers and clients.
+It provides clear guidance on how to use the software/hardware product/component and/or source code, 
+in compliance with the licensing agreement.
+
+
