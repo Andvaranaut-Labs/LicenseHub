@@ -7,9 +7,11 @@ Definitions:
 
     Client: a person, company, or entity that uses a product or service provided by another person, company, or entity.
 
-    Licensee: a person, company, or entity that is granted the right to use a software product or service in accordance with the terms and conditions outlined in a licensing agreement.
+    Licensee: a person, company, or entity that is granted the right to use a software product or service in accordance  
+              with the terms and conditions outlined in a licensing agreement.
 
-    Source Code: the programming instructions that make up a software application. It is used by developers to create, modify, and maintain software.
+    Source Code: the programming instructions that make up a software application. It is used by developers to create, modify,  
+                 and maintain software.
 
     Plugin/Addin: a software component that adds specific functionality to an existing software application.
 
@@ -19,154 +21,174 @@ Definitions:
 
     Open source compliance plugin connector: a software component that allows the use of open source plugins or extensions
 
-    Standard plugin system: a software architecture that allows developers to extend the functionality of a software application by adding plugins or extensions.
+    Standard plugin system: a software architecture that allows developers to extend the functionality of a  
+                            software application by adding plugins or extensions.
 
 
-Permission to use the software/hardware product/component and/or source code is only granted to clients who have signed a contract and made a verified payment.
+Permission to use the software/hardware product/component and/or source code is only granted to clients  
+who have signed a contract and made a verified payment.
 
-To ensure compliance with our licensing agreement, any person who acquires a copy of the software/hardware product/component and/or source code 
-must do so with proper authorization. Any unauthorized acquisition or use of our software/hardware product/component and/or source code is a violation of our licensing agreement. 
-Proper authorization refers to obtaining the software/hardware product/component and/or source code legally through the purchase 
+To ensure compliance with our licensing agreement, any person who acquires a copy of the software/hardware product/component   
+and/or source code must do so with proper authorization. Any unauthorized acquisition or use of our software/hardware  
+product/component and/or source code is a violation of our licensing agreement.  
+Proper authorization refers to obtaining the software/hardware product/component and/or source code legally through the purchase  
 of a valid license or by obtaining written permission from the copyright holder.
 
-Clients who have obtained legally authorized access are permitted to use, copy, modify, merge, publish, distribute, sublicense, 
-and/or sell copies of the software/hardware product/component and/or source code, subject to the terms and conditions of the licensing agreement:
+Clients who have obtained legally authorized access are permitted to use, copy, modify, merge, publish, distribute, sublicense,  
+and/or sell copies of the software/hardware product/component and/or source code, subject to the terms and conditions of the  
+licensing agreement:
 
 I. Entry Point Applications/Components (OPEN Source, Third Party FLOSS):
 The software/hardware may serve as an entry point application, 
-implying that it can be used as a starting point for software/hardware systems, but not as the complete system, while using FLOSS/FLOSH.
+implying that it can be used as a starting point for software/hardware systems, but not as the complete system,  
+while using FLOSS/FLOSH.
 
-II. Paid Source Independent Application Base Platforms (PAID Source, Original Developer/Creator):
-Any modifications made to the software/hardware by the original developer shall be developed within paid source-independent application platforms, 
-that work together with their specific entry point application. This ensures that commercial paid source is clearly separated from FLOSS.
+II. Paid Source Independent Application Base Platforms (PAID Source, Original Developer/Creator):  
+Any modifications made to the software/hardware by the original developer shall be developed within paid source-independent  
+application platforms, that work together with their specific entry point application.  
+This ensures that commercial paid source is clearly separated from FLOSS.
 
-III. Plugins:
+III. Plugins:  
 Developers can create plugins using any programming language or development tool they prefer.
 
 IIIa. Open Source Plugins (OPEN Source, All Developers):
 
-If the Add-In/Plugin content is open sourced, 
-any developer can create and distribute open source plugins that comply with the license terms. 
-1. The open source plugin can be executed using the open source compliance plugin connector, 
-    which ensures that no other components of the application will be affected by FLOSS licenses. 
-2. Alternatively, the standard plugin system can be used with the open source layer option, 
+If the Add-In/Plugin content is open sourced,  
+any developer can create and distribute open source plugins that comply with the license terms.  
+1. The open source plugin can be executed using the open source compliance plugin connector,  
+    which ensures that no other components of the application will be affected by FLOSS licenses.  
+2. Alternatively, the standard plugin system can be used with the open source layer option,  
     which provides a this license as a single license for the entire application.
 
-Benefits:
-    Any developer can contribute to the community by creating and sharing plugins that comply with the license terms.
-    The open source plugin connector ensures that the application remains compliant with FLOSS licenses.
-    The standard plugin system with the open source layer option provides a single license for the entire application, simplifying licensing and compliance for the end user.
+Benefits:  
+    Any developer can contribute to the community by creating and sharing plugins that comply with the license terms.  
+    The open source plugin connector ensures that the application remains compliant with FLOSS licenses.  
+    The standard plugin system with the open source layer option provides a single license for the entire application,  
+    simplifying licensing and compliance for the end user.
 
 
 IIIb. Closed Source local Private/Company Plugins (All Developers):
 
-For Closed Source local Private/Company Plugins, only developers within a client or a clients customer company or organization can access and modify the source code. 
+For Closed Source local Private/Company Plugins, only developers within a client or a clients customer company  
+or organization can access and modify the source code.  
 This approach ensures that proprietary code remains within that company and does not get exposed to external parties.
 
-The plugins can be integrated into the system through a proprietary plugin connector, which ensures that no other components of the system get impacted by external licenses.
+The plugins can be integrated into the system through a proprietary plugin connector,  
+which ensures that no other components of the system get impacted by external licenses.
 
 Benefits:
-    By using Closed Source local Private/Company Plugins, 
-    developers can maintain full control over the code, ensuring that it is tailored to the specific needs of the organization. 
+    By using Closed Source local Private/Company Plugins,  
+    developers can maintain full control over the code, ensuring that it is tailored to the specific needs of the organization.  
     Additionally, the plugins can be kept private, minimizing the risk of unauthorized access or theft of intellectual property.
 
-Overall, Closed Source local Private/Company Plugins provide a secure and flexible solution for companies looking to develop and integrate proprietary code into their systems.
+Overall, Closed Source local Private/Company Plugins provide a secure and flexible solution for companies looking to develop  
+and integrate proprietary code into their systems.
 
 
 IIIc. Paid Source / Closed Source Plugins (PAID/CLOSED Source, Verified Partner Developer):
 
-If the Add-In/Plugin content is not open sourced, a verified partner developer may offer it as a paid source/closed source plugin for the standard plugin system. 
-This approach ensures that the code and intellectual property remains with the verified partner developer, 
+If the Add-In/Plugin content is not open sourced, a verified partner developer may offer it as a paid source/closed source plugin  
+for the standard plugin system. 
+This approach ensures that the code and intellectual property remains with the verified partner developer,  
 and is not subject to open source licenses. 
-The plugin can be distributed and used within the application according to the terms of the license agreement between the verified partner developer and the end user.
+The plugin can be distributed and used within the application according to the terms of the license agreement  
+between the verified partner developer and the end user.
 
 Benefits:
-    The verified partner developers can retain ownership of their code and intellectual property, 
-    and have control over its distribution and use.
-    The end user can benefit from the features and functionality provided by the paid source/closed source plugin, 
-    without the need to comply with open source licenses of a different plugin, which he might therefore not use.
-    The paid source/closed source plugin can be updated and maintained by the verified partner developer, 
+    The verified partner developers can retain ownership of their code and intellectual property,  
+    and have control over its distribution and use.  
+    The end user can benefit from the features and functionality provided by the paid source/closed source plugin,  
+    without the need to comply with open source licenses of a different plugin, which he might therefore not use.  
+    The paid source/closed source plugin can be updated and maintained by the verified partner developer,  
     ensuring ongoing compatibility and support.
 
 
 This License provides partner developers of verified distributors with six degrees of freedom:
 
-    The freedom to use, modify, distribute, sell, and port the software/hardware for any positive environmental and civil purpose.
-    The freedom to study and modify the software/hardware.
-    The freedom to use the software/hardware in your commercial product without having to release your own commercial source code.
-    The freedom to distribute and sell this software/hardware.
-    The freedom to distribute modified versions of the software/hardware.
+    The freedom to use, modify, distribute, sell, and port the software/hardware for any positive environmental and civil purpose.  
+    The freedom to study and modify the software/hardware.  
+    The freedom to use the software/hardware in your commercial product without having to release your own commercial source code.  
+    The freedom to distribute and sell this software/hardware.  
+    The freedom to distribute modified versions of the software/hardware.  
     The freedom to port the software/hardware to new platforms and architectures.
 
 And licensees and end-users with two degrees of freedom:
 
-    The freedom to use the software/hardware for any positive environmental and civil purpose.
+    The freedom to use the software/hardware for any positive environmental and civil purpose.  
     The freedom to study and modify the software/hardware.
 
 This License imposes eight duties on all licensees and end-users of the software/hardware:
 
-    The obligation to use the software/hardware only for positive, lawful and ethical purposes.
-    The obligation to use the software/hardware only according to the terms and obligations defined in the specific contract.
-    The obligation to not disclose, distribute, or make available any portion of the Software to any third party.
-    The obligation to provide attribution to the original authors and contributors of the software and hardware.
-    The obligation to respect the intellectual property rights of the original authors and contributors.
-    The obligation to make any modifications to the software available under the same license terms.
-    The obligation to become a verified distributor before starting to distribute, sell, sublicense, rent, or lease the software, or any derivative works based on it.
-    The obligation to pay a license fee, defined by the software/hardware contract when using the software/hardware in a commercial product or service.
+    The obligation to use the software/hardware only for positive, lawful and ethical purposes.  
+    The obligation to use the software/hardware only according to the terms and obligations defined in the specific contract.  
+    The obligation to not disclose, distribute, or make available any portion of the Software to any third party.  
+    The obligation to provide attribution to the original authors and contributors of the software and hardware.  
+    The obligation to respect the intellectual property rights of the original authors and contributors.  
+    The obligation to make any modifications to the software available under the same license terms.  
+    The obligation to become a verified distributor before starting to distribute, sell, sublicense, rent,  
+                   or lease the software, or any derivative works based on it.  
+    The obligation to pay a license fee, defined by the software/hardware contract when using the software/hardware  
+                   in a commercial product or service.
 
-This License imposes three duties on all licencees and end usersof the software/hardware:
-The obligation to use the software/hardware only for positive, lawful and ethical purposes.
-The obligation to use the software/hardware only according to the terms and obligations defined in the specific contract
+This License imposes three duties on all licencees and end usersof the software/hardware:  
+The obligation to use the software/hardware only for positive, lawful and ethical purposes.  
+The obligation to use the software/hardware only according to the terms and obligations defined in the specific contract  
 The obligation to not disclose, distribute, or make available any portion of the Software to any third party
 
 Limitations
-    Any modification or waiver of any provision of this license must be in writing and signed by both parties.
-    If any provision of this license is found to be invalid or unenforceable, the remaining provisions shall remain 
-    in full force and effect.
-    This license does not grant any patent rights, copyrights, trademarks, or any other intellectual property rights.
-    This license is not transferable or assignable by the target licensee.
-    This license is not intended to, and does not, create any agency, partnership, joint venture, 
+    Any modification or waiver of any provision of this license must be in writing and signed by both parties.  
+    If any provision of this license is found to be invalid or unenforceable, the remaining provisions shall remain  
+    in full force and effect.  
+    This license does not grant any patent rights, copyrights, trademarks, or any other intellectual property rights.  
+    This license is not transferable or assignable by the target licensee.  
+    This license is not intended to, and does not, create any agency, partnership, joint venture,  
     or employment relationship between the orginal creator and the licencee.
 
 
-Patent License
-Subject to the terms and conditions of the AVNL-ASH License, 
-the licensor hereby grants to any recipient of the licensed material a non-exclusive, worldwide, royalty-free patent license 
-under the licensor's patent claims that are necessarily infringed by the licensed material, 
+Patent License  
+Subject to the terms and conditions of the AVNL-ASH License,  
+the licensor hereby grants to any recipient of the licensed material a non-exclusive, worldwide, royalty-free patent license  
+under the licensor's patent claims that are necessarily infringed by the licensed material,  
 to make, use, sell, offer for sale, import, and otherwise run, modify, and propagate the licensed material.
 
-This patent license is granted only if the recipient agrees to the terms and conditions of the AVNL-ASH License, and such agreement is hereby deemed to occur upon use of the licensed material.
+This patent license is granted only if the recipient agrees to the terms and conditions of the AVNL-ASH License,  
+and such agreement is hereby deemed to occur upon use of the licensed material.
 
-This patent license should be compatible with the AVNL-ASH license, as it does not impose any additional restrictions on the use, modification, or distribution of the licensed material beyond those already set forth in the AVNL-ASH license.
+This patent license should be compatible with the AVNL-ASH license, as it does not impose any additional restrictions  
+on the use, modification, or distribution of the licensed material beyond those already set forth in the AVNL-ASH license.
 
-Amendments and Waivers
-This license agreement may be amended or modified only by a written instrument executed by both parties. 
-No waiver of any right under this agreement shall be effective unless in writing, signed by the party against whom such waiver is sought to be enforced.
+Amendments and Waivers  
+This license agreement may be amended or modified only by a written instrument executed by both parties.  
+No waiver of any right under this agreement shall be effective unless in writing, signed by the party against  
+whom such waiver is sought to be enforced.
 
-Termination
-This license agreement will terminate automatically if the licensee fails to comply with any of the terms and conditions outlined in this agreement and does not get into anagreement with the licensor.
-Upon termination, the licensee must immediately cease all use of the software/hardware product/component and destroy or send back all copies in their possession.
+Termination  
+This license agreement will terminate automatically if the licensee fails to comply with any of the terms and conditions  
+outlined in this agreement and does not get into anagreement with the licensor.
+Upon termination, the licensee must immediately cease all use of the software/hardware product/component and destroy or  
+send back all copies in their possession.
 
 
-The inclusion of the above copyright notice and permission notice is required in all copies or significant portions of the software.
+The inclusion of the above copyright notice and permission notice is required in all copies or significant portions  
+of the software.
 
-This software/hardware product/component is provided "as is" without warranty of any kind, either express or implied, including, 
-but not limited to, the warranties of merchantability and fitness for a particular purpose, and non-infringement. 
-In no event shall Andvaranaut Labs, its contributors, and its affiliates be liable for any direct, indirect, incidental, special, exemplary, 
-or consequential claims, damages, or other liabilities arising out of or in connection with the use or performance 
-of this software/hardware product/component, even if advised of the possibility of such damages.
+This software/hardware product/component is provided "as is" without warranty of any kind, either express or implied, including,   
+but not limited to, the warranties of merchantability and fitness for a particular purpose, and non-infringement.  
+In no event shall Andvaranaut Labs, its contributors, and its affiliates be liable for any direct, indirect, incidental, 
+special, exemplary, or consequential claims, damages, or other liabilities arising out of or in connection with the use  
+or performance of this software/hardware product/component, even if advised of the possibility of such damages.
 
-By using this software/hardware product/component, you agree to hold Andvaranaut Labs and its contributors harmless from any and all claims, 
-damages, or liabilities arising from the use of this software/hardware component, including but not limited to those related to lost profits, 
-lost data, or other financial or even tragic loss of life(s), whether in an action of contract, tort, or otherwise, arising from, out of, 
-or in connection with the Software or the use or other dealings in the Software.
+By using this software/hardware product/component, you agree to hold Andvaranaut Labs and its contributors harmless from any  
+and all claims, damages, or liabilities arising from the use of this software/hardware component, including but not limited  
+to those related to lost profits, lost data, or other financial or even tragic loss of life(s), whether in an action of contract,  
+tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
 
-Andvaranaut Labs retains all rights, title, and interest in and to the software, including all intellectual property rights. 
+Andvaranaut Labs retains all rights, title, and interest in and to the software, including all intellectual property rights.  
 You acknowledge that you have no rights to the software except as expressly granted in this license.
 
-This license shall be governed by and construed in accordance with the laws of [insert governing jurisdiction]. 
-Any disputes arising out of or in connection with this license shall be resolved through binding arbitration 
+This license shall be governed by and construed in accordance with the laws of [insert governing jurisdiction].  
+Any disputes arising out of or in connection with this license shall be resolved through binding arbitration  
 in accordance with the rules of the [insert arbitration association].
 
-By using this software, you also agree to be bound by the terms and conditions of this license. 
+By using this software, you also agree to be bound by the terms and conditions of this license.  
 If you do not agree to these terms and conditions, do not use the software/hardware.
