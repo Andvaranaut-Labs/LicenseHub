@@ -14,7 +14,7 @@ The second license layer specifies that any modifications made to the software b
 within paid source independent application base platforms that work together with their specific entry point application. 
 
 Lastly, clients are allowed to use the paid source-independent application platforms developed under this license  
-to create commercial proprietary products by customization and/or developing add-ins/plug-ins osing FLOSS, PAID or even CLOSED Source.
+to create commercial proprietary products by customization and/or developing add-ins/plug-ins using FLOSS, PAID or even CLOSED Source.
 
 The license provides partner developers with six degrees of freedom while specifying certain duties.
 
